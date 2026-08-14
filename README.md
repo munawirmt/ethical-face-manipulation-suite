@@ -1,6 +1,7 @@
 # Advanced AI Face Swap & Forensics Suite
 
 [![Streamlit App](https://shields.io)](https://ethical-face-manipulation-suite-xhikgsnqf4nnzbte9p9ppj.streamlit.app/)
+
 A production-grade Computer Vision application that performs high-fidelity, real-time facial manipulation alongside structural media forensics for deepfake detection. 
 
 The core engineering approach focuses heavily on **hardware constraint mitigation**, **dynamic resource management**, and **on-demand dependency provisioning** to ensure optimal performance on standard consumer hardware.
